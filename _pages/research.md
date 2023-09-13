@@ -8,6 +8,13 @@ author_profile: true
 
 ## Working Papers
 
+**[Striking the Balance: Human Discretion and Algorithmic Insights in Parole Supervision Decision-Making](https://assamidanov.github.io/files/Supervision_Paper.pdf)** <br>
+with Nicholas Powell<br>
+Updated: May 2023 
+
+>In this paper, we conduct an in-depth examination of the interplay between predictive algorithms and human discretion in parole supervision decisions. Leveraging a unique methodological framework combining Regression Discontinuity Design (RDD) and random assignment, we explore the impact of parole officers' override decisions on recidivism rates. Our analysis indicates a significant increase in recidivism as parolees transition from standard to high supervision based on algorithmic risk scores alone. However, when parole officers' override decisions are incorporated, harsher decisions consistently result in lower recidivism rates, while lenient decisions have no significant impact. These findings highlight the crucial role of human discretion in algorithm-based decision-making and provide important insights into potential improvements for predictive algorithms. The study contributes to the ongoing discourse on the role of human intervention in algorithmic recommendations within the criminal justice system.
+
+
 **[Discrimination and Constraints: Evidence from The Voice](https://assamidanov.github.io/files/Discrimination_Job_Market_Paper.pdf)** <br>
 Updated: November 2022 
 
