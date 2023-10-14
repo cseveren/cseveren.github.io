@@ -10,10 +10,7 @@ redirect_from:
 
 
 <img align="right" src="https://assamidanov.github.io/images/profile_photo.jpeg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-I am a Doctoral student in Economics at Claremont Graduate University (CGU) and a member of the [Computational Justice Lab](https://www.http://computationaljusticelab.org/). My primary research interest is applied microeconomics; however, my other interests include causal inference and applications of machine learning methods for causal inference.
-
-I have been working as a Data Research Intern at 211 LA for the last two years. I have built recommendation systems
-for 211 dispatchers by using Deep Learning and Machine Learning models in Pytorch and Sklearn(Python). I have also been involved in the project of evaluating recommender bot by using A/B testing techniques.
+I am a Ph.D. candidate in Economics at Claremont Graduate University and concurrently serve as a Data Analyst Intern at Chime, a leader in the fintech sector. My academic research is focused on formulating methods to assess the impact of human discretion on algorithmic decision-making processes, specifically within the context of parole and probation settings. In addition, I am undertaking a thorough analysis of the effectiveness of technological tools within public sector organizations. These scholarly endeavors have equipped me with a nuanced understanding of both the challenges and opportunities inherent in the application of machine learning and artificial intelligence to real-world scenarios. For an in-depth view of my credentials and expertise, you are welcome to consult my CV via the [following link](https://github.com/assamidanov/assamidanov.github.io/blob/master/files/Anuar_cv.pdf).
 
 ### About this website
 Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).
