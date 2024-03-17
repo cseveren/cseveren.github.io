@@ -11,7 +11,7 @@ redirect_from:
 
 <img align="right" src="https://assamidanov.github.io/images/profile_photo.jpeg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
 I am a Ph.D. Candidate in Economics at Claremont Graduate University, specializing in economics of crime, law and economics, and labor economics. I use experimental and quasi-experimental methods to explore the impact of public policies on parole and probation outcomes, aiming to improve societal well-being and policy efficacy.
-
+<br>
 My dedication to empirical research and policy analysis seeks to understand the effects of policy on societal and economic dynamics. For an in-depth view of my credentials and expertise, you are welcome to consult my CV via the [following link](https://assamidanov.github.io/files/Anuar_cv.pdf) <i class="fa fa-file-pdf-o"> </i> <br>.
 
 ### About this website
