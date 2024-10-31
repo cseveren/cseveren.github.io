@@ -10,10 +10,22 @@ redirect_from:
 
 
 <img align="right" src="https://assamidanov.github.io/images/profile_photo.jpeg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-I am a postdoctoral scholar in health economics at UC Irvine's Joe C. Wen School of Population & Public Health, where my research focuses on how health policies impact access to care, health outcomes, and health equity. I use empirical methods to assess the effectiveness of policies in improving health access and reducing disparities, aiming to inform data-driven policy decisions that support underserved populations and enhance overall public health.
+
+## Welcome!
+
+I am a **postdoctoral scholar in health economics** at UC Irvine's *Joe C. Wen School of Population & Public Health*. My research focuses on the impact of health policies on access to care, health outcomes, and health equity. Using empirical methods, I assess policy effectiveness in improving health access and reducing disparities, with a goal to support data-driven decisions that benefit underserved populations and enhance public health.
+
 <br>
+
+---
+
+My research includes several grant-funded projects. Through support from the National Institute of Dental and Craniofacial Research, I study how Medicaid pregnancy dental benefits influence care access among pregnant individuals and young children. Additionally, in collaboration with the University of Wisconsin, I am examining how paid sick leave policies impact SSI/SSDI participation rates among children and adults with disabilities.
+
+Another area of my research, funded by the National Institute on Deafness and Other Communication Disorders, evaluates the influence of hearing aid insurance mandates on utilization. In a separate project, my analysis of telehealth policy expansion investigates its effects on mental health access and suicide rates across U.S. states, providing critical insights for policymakers on the role of telehealth in public health.
+
 <br>
-Currently, I lead several grant-funded projects. With support from the National Institute of Dental and Craniofacial Research, I study the effect of Medicaid pregnancy dental benefits on care access for pregnant individuals and young children. Additionally, my work with the University of Wisconsin explores how paid sick leave policies affect disability participation. Another project, funded by the National Institute on Deafness and Other Communication Disorders, examines hearing aid insurance mandates and their impact on usage. My analysis of telehealth policy expansion also sheds light on its influence on mental health access and suicide rates across states. <br>
+
+---
 ### About this website
 Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).
 
