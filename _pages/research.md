@@ -7,7 +7,8 @@ author_profile: true
 ---
 ## Works in Progress
 
-### Impact of Medicaid Dental Benefits on Maternal and Child Health
+**[Impact of Medicaid Dental Benefits on Maternal and Child Health]
+(https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)** <br>
 with Qian X, Bruckner T, Manski R, Lipton B
 
 ### Policy Implications of Hearing Aid Coverage in Medicaid Managed Care Plans
