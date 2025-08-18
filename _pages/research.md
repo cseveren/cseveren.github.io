@@ -25,8 +25,6 @@ with Qian X, Sabia J, Lipton B
 with Masoumirad M
 
 
-## Working Papers
-
 **[Striking the Balance: Human Discretion and Algorithmic Insights in Parole Supervision Decision-Making](https://assamidanov.github.io/files/Supervision_Paper.pdf)** <br>
 with Nicholas Powell<br>
 Updated: May 2023 
