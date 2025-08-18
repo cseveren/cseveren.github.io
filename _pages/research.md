@@ -18,8 +18,8 @@ with Qian X, Bruckner T, Manski R, Lipton B
 ### Policy Implications of Hearing Aid Coverage in Medicaid Managed Care Plans
 with Tonti L, Arnold M, Lipton B
 
-### Impact of paid sick leave policies on SSI/SSDI participation among children and adults with disabilities
-with Qian X, Sabia J, Lipton B
+### The Effect of Paid Sick Leave Mandates on Social Security Disability Claims
+with Qian X, Dave D, Kim J, Lipton B,  Sabia J
 
 ### Impact of Telehealth Policy Expansion on Suicide Rates and Substance Use Treatment
 with Masoumirad M
