@@ -7,8 +7,7 @@ author_profile: true
 ---
 ## Works in Progress
 
-**[Impact of Medicaid Dental Benefits on Maternal and Child Health]
-(https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)** <br>
+**[Impact of Medicaid Dental Benefits on Maternal and Child Health](https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)** <br>
 with Qian X, Bruckner T, Manski R, Lipton B
 
 ### Policy Implications of Hearing Aid Coverage in Medicaid Managed Care Plans
@@ -43,13 +42,6 @@ an opposite-gender coach. I also utilize the machine-learning approach in Athey 
 heterogeneity from team gender composition, order of performance, and failure rates of the coaches. The
  findings of offer a new perspective to enrich past research on gender discrimination, shedding light on the
 instances of gender bias variation by the gender of the decision maker and team gender composition.
-
-
-### Pandemic Safeguards and Household Safety
-with G. DeAngelo, Y.Le, S.Cunningham, and R.Thornton
-
-
-> A flurry of research has examined the effect of COVID-19-related policies on family violence with considerable variation in approach, often producing conflicting results. In this paper, we provide four main contributions to the existing literature. First, we utilize up-to-date estimation methods developed by Goodman-Bacon (2021) and Callaway and Sant'Anna (2020) to account for the differential timing in implementing COVID-19 policies and compare our estimates with traditional two-way fixed effects. Second, we use the most comprehensive data from the United States from 30 jurisdictions across 18 states to ensure that our conclusions are not reached due to data selection issues. Third, we evaluate three COVID policies: shelter-in-place, school closures, and daycare closures. Fourth, we use two measures of family violence: adult domestic violence and child violence. We find that school closure significantly doubled the number of child abuse calls per day from the mean. However, daycare closure significantly reduced 1.2 calls of child abuse calls per day. We detect no effect for shelter-in-place or daycare closure orders and document a reversal of our estimates' direction when using Callaway and Sant'Anna (2020). to measure the impact of daycare closure relative to a two-way fixed effect.
 
 
 
