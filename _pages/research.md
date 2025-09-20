@@ -36,7 +36,7 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"Lockdowns and Innovation: Evidence from 1918 Flu Pandemic" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152. Forthcoming at *Review of Economics and Statistics*. [[Final version](https://cseveren.github.io/files/pandemic_innovation_final.pdf), [older NBER WP](https://www.nber.org/papers/w28152)]
+"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://doi.org/10.1162/rest_a_01289)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). *Review of Economics and Statistics* 107, no. 3 (2025), 853–863. [[Pre-print](https://cseveren.github.io/files/pandemic_innovation_final.pdf), [NBER WP 28152](https://www.nber.org/papers/w28152)]
 
 "[The Problem Has Existed over Endless Years: Racialized Difference in Commuting, 1980-2019](https://www.sciencedirect.com/science/article/abs/pii/S0094119023000116)" (with [devin michelle bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Journal of Urban Economics* 141 (2024), 103542. [[Pre-print](https://cseveren.github.io/files/racialized_difference_commuting_Final.pdf), [Thread](https://twitter.com/ChrisSeveren/status/1505950357591109636), Media coverage: [The Atlantic](https://www.theatlantic.com/ideas/archive/2022/09/black-families-leaving-cities-suburbs/671331/); [Code Repo (Data TBD)](https://github.com/cseveren/RacializedCommutes)]
 
