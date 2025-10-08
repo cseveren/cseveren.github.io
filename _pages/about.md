@@ -16,7 +16,7 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 ### New Developments
 
-* Aug '25 - I'm eaching a PhD class at Penn (Wharton) on QSMs for Urban Economics in the fall; syllabus [here](https://cseveren.github.io/teaching/2025-QSMs).
+* Aug '25 - I'm teaching a PhD class at Penn (Wharton) on QSMs for Urban Economics in the fall; syllabus [here](https://cseveren.github.io/teaching/2025-QSMs).
 * May '25 - Turns out LLMs are pretty great at cheaply and easily digitizing very heterogeneously structured historical tabular data. Check out our simple [pipeline and validation in a new WP using data on historical vehicle adoption](https://cseveren.github.io/files/Hist_LLM.pdf) (and on [arXiv](http://arxiv.org/abs/2505.11599)).
 * Jan '25 - Are recent immigrants particularly unlikely to be captured in the CPS? Yes... Read my [research brief](https://www.philadelphiafed.org/the-economy/macroeconomics/delayed-sampling-of-recent-immigrants-in-the-current-population-survey); [repo here](https://github.com/cseveren/upweighting-recent-immigrants). 
 * Jun '24 - Updated draft about [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/driving_dropouts_draft.pdf) with [Valerie Bostwick](https://vkbostwick.weebly.com/), now shows long-run effects.
