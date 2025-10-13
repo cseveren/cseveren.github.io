@@ -13,10 +13,7 @@ redirect_from:
 
 ## Welcome!
 
-I am a **Postdoctoral Scholar in Health Economics** at the University of California, Irvine’s *Joe C. Wen School of Population & Public Health*.  
-My research examines how **health and labor policies** shape access to care, health behaviors, and economic well-being.  
-Using **quasi-experimental methods** and large administrative and survey datasets, I study topics including **Medicaid dental benefits and birth outcomes**, **hearing aid coverage mandates**, **paid sick leave policies**, and **telehealth expansion**.  
-Across these projects, my work aims to generate evidence that informs **equitable and cost-effective public policy**.
+I am a postdoctoral scholar in health economics at the University of California, Irvine’s Joe C. Wen School of Population & Public Health. My research examines how health and labor policies shape access to care, health behaviors, and economic well-being. Using quasi-experimental methods and large administrative and survey datasets, I study topics including Medicaid dental benefits and birth outcomes, hearing aid coverage mandates, paid sick leave policies, and telehealth expansion. Across these projects, my work aims to generate evidence that informs equitable and cost-effective public policy.
 
 
 <br>
