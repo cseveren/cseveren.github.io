@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img align="right" src="https://assamidanov.github.io/images/profile_photo.png" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+<img align="right" src="https://assamidanov.github.io/images/profile_photo.png" alt="Photo" style="width: 300px; border-radius: 10px; padding: 8px"/>
 
 ## Welcome!
 
