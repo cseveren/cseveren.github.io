@@ -13,7 +13,8 @@ redirect_from:
 
 ## Welcome!
 
-I am a postdoctoral scholar in health economics at the University of California, Irvine. My research uses empirical methods to evaluate how health and labor policies affect access to care, health behaviors, and economic well-being. Current projects examine Medicaid dental benefits, paid sick leave mandates, hearing aid coverage, and telehealth expansion.
+I am a Postdoctoral Scholar in Health Economics at the University of California, Irvine. My research uses empirical methods to evaluate how Health and Labor Policies influence access to care, health behaviors, and economic well-being. Current projects examine Medicaid Dental Benefits, Paid Sick Leave Mandates, Hearing Aid Coverage, and Telehealth Expansion.
+
 
 
 <br>
