@@ -13,15 +13,11 @@ redirect_from:
 
 ## Welcome!
 
-I am a **postdoctoral scholar in health economics** at UC Irvine's *Joe C. Wen School of Population & Public Health*. My research focuses on the impact of health policies on access to care, health outcomes, and health equity. Using empirical methods, I assess policy effectiveness in improving health access and reducing disparities, with a goal to support data-driven decisions that benefit underserved populations and enhance public health.
+I am a **Postdoctoral Scholar in Health Economics** at the University of California, Irvine’s *Joe C. Wen School of Population & Public Health*.  
+My research examines how **health and labor policies** shape access to care, health behaviors, and economic well-being.  
+Using **quasi-experimental methods** and large administrative and survey datasets, I study topics including **Medicaid dental benefits and birth outcomes**, **hearing aid coverage mandates**, **paid sick leave policies**, and **telehealth expansion**.  
+Across these projects, my work aims to generate evidence that informs **equitable and cost-effective public policy**.
 
-<br>
-
----
-
-My research includes several grant-funded projects. Through support from the National Institute of Dental and Craniofacial Research, I study how Medicaid pregnancy dental benefits influence care access among pregnant individuals and young children. Additionally, in collaboration with the University of Wisconsin, I am examining how paid sick leave policies impact SSI/SSDI participation rates among children and adults with disabilities.
-
-Another area of my research, funded by the National Institute on Deafness and Other Communication Disorders, evaluates the influence of hearing aid insurance mandates on utilization. In a separate project, my analysis of telehealth policy expansion investigates its effects on mental health access and suicide rates across U.S. states, providing critical insights for policymakers on the role of telehealth in public health.
 
 <br>
 
