@@ -8,11 +8,12 @@ author_profile: true
 ## Working Papers
 
 **[Impact of Medicaid Dental Benefits on Maternal and Child Health](https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)**  
-with Qian X, Bruckner T, Manski R, Lipton B  
-*Job Market Paper*
+*Job Market Paper*  
+with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
+
 
 **[Impact of Medicaid Dental Coverage Expansion on Dental Care Utilization and Smoking Behavior Among Reproductive-Age Women](https://assamidanov.github.io/files/BRFSS_DRAFT.pdf)**  
-with Qian X, Bruckner T, Manski R, Lipton B
+with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
 
 **The Effect of Paid Sick Leave Mandates on Social Security Disability Claims**  
 with Qian X, Dave D, Kim J, Lipton B, Sabia J
