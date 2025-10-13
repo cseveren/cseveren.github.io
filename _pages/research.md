@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**[Impact of Medicaid Dental Benefits on Maternal and Child Health](https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)**  
+**[Impact of Medicaid Pregnancy Dental Benefits on Prenatal Dental Utilization and Birth Outcomes](https://assamidanov.github.io/files/PRAMS_Dental_Benefits.pdf)**  
 *Job Market Paper*  
 with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
 
