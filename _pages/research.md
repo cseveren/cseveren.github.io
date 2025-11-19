@@ -12,7 +12,9 @@ Active Research
 
 ### Working Papers
 
-"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2025). [[arXiv version](http://arxiv.org/abs/2505.11599)]
+"[Evaluating Urban Transportation with Quantitative Spatial Models](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs.pdf)." (2025). Invited at *Regional Science and Urban Economics*.
+
+"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2025). [older [arXiv version](http://arxiv.org/abs/2505.11599)]
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2024). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
@@ -24,8 +26,6 @@ Active Research
 "Mortality Consequences of the Interstate Highway System" (with [Dustin Frye][dfrye]).
 
 "Creating Water Amenities: Evidence from the Chicago River Reversal" (with [Mike Coury][coury] and [Allison Shertzer][allison]).
-
-"Evaluating Urban Transportation with Quantitative Spatial Models."
 
 "Defying Gravity: Persistence in Commuting Flows."
 
