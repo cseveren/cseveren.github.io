@@ -15,11 +15,11 @@ with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
 **[Impact of Medicaid Dental Coverage Expansion on Dental Care Utilization and Smoking Behavior Among Reproductive-Age Women](https://assamidanov.github.io/files/BRFSS_DRAFT.pdf)**  
 with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
 
-**The Effect of Paid Sick Leave Mandates on Social Security Disability Claims**  
+**[The Effect of Paid Sick Leave Mandates on Social Security Disability Claims](https://assamidanov.github.io/files/PSL_SSI_SSDI_Draft.pdf)**  
 with Qian X, Dave D, Kim J, Lipton B, Sabia J
 
-**[Striking the Balance: Human Discretion and Algorithmic Insights in Parole Supervision Decision-Making](https://assamidanov.github.io/files/Supervision_Paper.pdf)**  
-with Nicholas Powell  
+**[When Parents Can Take Time: Paid Sick Leave and Child Mental Health] (https://assamidanov.github.io/files/PSL_Child_Health.pdf)**  
+with Khalid S
 
 ---
 
@@ -27,9 +27,6 @@ with Nicholas Powell
 
 **Impact of Telehealth Policy Expansion on Substance Use Treatment: A State-Level Longitudinal Analysis**  
 with Masoumirad M
-
-**When Parents Can Take Time: Paid Sick Leave and Child Mental Health**  
-with Khalid S
 
 **Policy Implications of Hearing Aid Coverage in Medicaid Managed Care Plans**  
 with Tonti L, Arnold M, Lipton B
