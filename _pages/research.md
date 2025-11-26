@@ -18,7 +18,7 @@ with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
 **[The Effect of Paid Sick Leave Mandates on Social Security Disability Claims](https://assamidanov.github.io/files/PSL_SSI_SSDI_Draft.pdf)**  
 with Qian X, Dave D, Kim J, Lipton B, Sabia J
 
-**[When Parents Can Take Time: Paid Sick Leave and Child Mental Health] (https://assamidanov.github.io/files/PSL_Child_Health.pdf)**  
+**[When Parents Can Take Time: Paid Sick Leave and Child Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)**  
 with Khalid S
 
 ---
