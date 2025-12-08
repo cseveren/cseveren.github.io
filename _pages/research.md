@@ -12,7 +12,7 @@ author_profile: true
 with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
 >Despite elevated risks for oral health problems, more than half of pregnant women do not visit the dentist at least once during pregnancy. The Medicaid program covers more than 40% of US births and represents an important source of pregnancy dental coverage. We examine the effects of state-level pregnancy dental benefits using a difference-in-differences approach and data from the 2012-2019 Pregnancy Risk Assessment and Monitoring System (PRAMS). We find that providing dental coverage to pregnant Medicaid recipients increases dental cleaning rates by 7.16 percentage points, or 29% relative to baseline. We also examine linked birth certificate data given evidence that poor oral health during pregnancy is associated with adverse pregnancy and birth outcomes. We find evidence of reductions in small for gestational age and very low birth weight, though results are somewhat sensitive to specification and data source. An analysis of mechanisms suggests that Medicaid dental benefits increase rates of pregnancy dental insurance, increase receipt of dental counseling, and improve self-reported general health status.
 
-- **[The Effect of Paid Sick Leave Mandates on Social Security Disability Claims](https://www.nber.org/papers/w34542)**  
+**[The Effect of Paid Sick Leave Mandates on Social Security Disability Claims](https://www.nber.org/papers/w34542)**  
   with Qian X, Dave D, Kim J, Lipton B, Sabia J  
   NBER Working Paper No. 34542
   
