@@ -59,7 +59,7 @@ Publications
 
 ### Books, Chapters, Essays, and Research Reports
 
-"[Harvesting Historical Data with LLMs](https://www.philadelphiafed.org/the-economy/harvesting-historical-data-with-llms)" with Dan Moulton). *Economic Insights* 10, no. 4: 1-6.
+"[Harvesting Historical Data with LLMs](https://www.philadelphiafed.org/the-economy/harvesting-historical-data-with-llms)" (with Dan Moulton). *Economic Insights* 10, no. 4: 1-6.
 
 "[Delayed Sampling of Recent Immigrants in the Current Population Survey](https://www.philadelphiafed.org/the-economy/macroeconomics/delayed-sampling-of-recent-immigrants-in-the-current-population-survey),” *FRBP Research Brief* (2025), [[Repo](https://github.com/cseveren/upweighting-recent-immigrants)].
 
