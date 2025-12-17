@@ -59,6 +59,8 @@ Publications
 
 ### Books, Chapters, Essays, and Research Reports
 
+"[Harvesting Historical Data with LLMs](https://www.philadelphiafed.org/the-economy/harvesting-historical-data-with-llms)" with Dan Moulton). *Economic Insights* 10, no. 4: 1-6.
+
 "[Delayed Sampling of Recent Immigrants in the Current Population Survey](https://www.philadelphiafed.org/the-economy/macroeconomics/delayed-sampling-of-recent-immigrants-in-the-current-population-survey),” *FRBP Research Brief* (2025), [[Repo](https://github.com/cseveren/upweighting-recent-immigrants)].
 
 "[Not All Rush Hours Are the Same](https://www.philadelphiafed.org/the-economy/regional-economics/not-all-rush-hours-are-the-same)" (with Nassir Holden). *Economic Insights* 8, no. 3 (2023): 16-25. [Press: [Inquirer](https://www.inquirer.com/jobs/labor/black-workers-commuting-longer-philadelphia-federal-reserve-bank-20231017.html), [KYW](https://www.audacy.com/kywnewsradio/news/local/philadelphia-black-workers-have-longer-work-commutes-than-white-workers)]
