@@ -12,7 +12,7 @@ Active Research
 
 ### Working Papers
 
-"[Evaluating Urban Transportation with Quantitative Spatial Models](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs.pdf)." (2025). Invited at *Regional Science and Urban Economics*.
+"[Evaluating Transportation Improvements Within Cities Using Quantitative Spatial Models](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs.pdf)." (2026). Invited, R&R at *Regional Science and Urban Economics*.
 
 "[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2025). [older [arXiv version](http://arxiv.org/abs/2505.11599)]
 
