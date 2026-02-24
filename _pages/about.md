@@ -16,7 +16,7 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 ### New Developments
 
-* Feb '26 - Updated draft about [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/Driving_Dropouts_Draft.pdf) with [Valerie Bostwick](https://vkbostwick.weebly.com/).
+* Feb '26 - Updated draft about [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/driving_dropouts_draft.pdf) with [Valerie Bostwick](https://vkbostwick.weebly.com/).
 * Jan to June '26 - On sabbatical, returning July.
 * Jan '26 - New [review/discussion paper](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs.pdf) on evaluating transportation within cities using QSMs for a special issue of RSUE on Urban Economics and Transport (now R&R). Check it out; send me comments!
 * Aug '25 - I'm teaching a PhD class at Penn (Wharton) on QSMs for Urban Economics in the fall; syllabus [here](https://cseveren.github.io/teaching/2025-QSMs).
