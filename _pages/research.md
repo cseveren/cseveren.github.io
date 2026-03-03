@@ -15,7 +15,7 @@ with Qian X, Bruckner T, Manski R, Steenland M, Lipton B
 [NBER Working Paper No. 34542](https://www.nber.org/papers/w34542)  
 with Qian X, Dave D, Kim J, Lipton B, Sabia J  
 
-**[When Parents Can Take Time: Paid Sick Leave and Child Mental Health]((https://assamidanov.github.io/files/PSL_Child_Health.pdf))** *(Under Review)*  
+**[When Parents Can Take Time: Paid Sick Leave and Child Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)** *(Under Review)*  
 [SSRN Version](https://papers.ssrn.com/abstract=6332078)  
 with Khalid S  
 
