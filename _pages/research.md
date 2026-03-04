@@ -27,6 +27,8 @@ Active Research
 
 "Creating Water Amenities: Evidence from the Chicago River Reversal" (with [Mike Coury][coury] and [Allison Shertzer][allison]).
 
+"Path Dependence and Automobility in the United States."
+
 "Defying Gravity: Persistence in Commuting Flows."
 
 
