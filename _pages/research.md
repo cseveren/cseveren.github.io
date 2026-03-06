@@ -11,11 +11,11 @@ author_profile: true
 [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244138) 
 with Qian X, Bruckner T, Manski R, Steenland M, Lipton B  
 
-**The Effect of Paid Sick Leave Mandates on Social Security Disability Claims** *(Under Review)*  
+**[The Effect of Paid Sick Leave Mandates on Social Security Disability Claims](https://www.nber.org/papers/w34542)** *(Under Review)*  
 [NBER Working Paper No. 34542](https://www.nber.org/papers/w34542)  
 with Qian X, Dave D, Kim J, Lipton B, Sabia J  
 
-**[When Parents Can Take Time: Paid Sick Leave and Child Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)** *(Under Review)*  
+**[When Parents Can Take Time: Paid Sick Leave and Adolescent Mental Health](https://assamidanov.github.io/files/PSL_Child_Health.pdf)** *(Under Review)*  
 [SSRN Version](https://papers.ssrn.com/abstract=6332078)  
 with Khalid S  
 
@@ -34,3 +34,6 @@ with Tonti L, Arnold M, Lipton B
 
 **Navigating Adult Vision Benefits in Medicaid Managed Care: A 40-State Review**
 with Patel N, Hsieh T, Lipton B
+
+**The Changing Medicaid Workforce: Provider Participation and Workload Before, During, and After Continuous Enrollment**
+with Herring J
