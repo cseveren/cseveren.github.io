@@ -12,12 +12,11 @@ Active Research
 
 ### Working Papers
 
-"[Evaluating Transportation Improvements Within Cities Using Quantitative Spatial Models](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs.pdf)." (2026). Invited, R&R at *Regional Science and Urban Economics*.
+"[Evaluating Transportation Improvements Within Cities Using Quantitative Spatial Models](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs_RR.pdf)." (2026). Invited, Resubmitted at *Regional Science and Urban Economics*.
+
+"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2026). Resubmitted at *Hist LLM* [[arXiv version](http://arxiv.org/abs/2505.11599)]
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2026). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
-
-"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2026). R&R at *Hist LLM* [[arXiv version](http://arxiv.org/abs/2505.11599)]
-
 
 ### Selected Works in Progress
 
@@ -27,7 +26,7 @@ Active Research
 
 "Waterfronts as Amenities: Evidence from the Chicago River Reversal" (with [Mike Coury][coury] and [Allison Shertzer][allison]).
 
-"Path Dependence and Automobility in the United States."
+"Path Dependence and Automobility in the United States" (with [Verónica Bäcker-Peral][vbp]).
 
 "Defying Gravity: Persistence in Commuting Flows."
 

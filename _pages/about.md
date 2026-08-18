@@ -16,15 +16,18 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 ### New Developments
 
+* Aug '26 - Interested in using QSMs, especially to evaluate transportation infrastructure? Check my [expanded review](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs_RR.pdf) for a special issue of RSUE on Urban Economics and Transport.
+* Aug '26 - Program for our conference-in-a-conference, [Junior Spatial at the SEA](https://sfuchs-de.github.io/sea-spatial/), is up (co-organizer [Simon Fuchs](https://sfuchs-de.github.io/) designed the nifty website).
 * Jun '26 - LLMs are good, but not perfect, at digitizing historical tabular data. Check out our simple [revised paper using historical vehicle registration data](https://cseveren.github.io/files/Hist_LLM.pdf) (and on [arXiv](http://arxiv.org/abs/2505.11599)).
 * Feb '26 - Updated draft studying [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/driving_dropouts_draft.pdf) with [Valerie Bostwick](https://vkbostwick.weebly.com/).
-* Jan to June '26 - On sabbatical; at LSE from early March to early May.
-* Jan '26 - New [review/discussion paper](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs.pdf) on evaluating transportation within cities using QSMs for a special issue of RSUE on Urban Economics and Transport (now R&R). Check it out; send me comments!
 * Aug '25 - I'm teaching a PhD class at Penn (Wharton) on QSMs for Urban Economics in the fall; description and syllabus [here](https://cseveren.github.io/teaching/2025-QSMs).
 
 
 ### Links for Posterity
-Fall 2020: Co-organized the [2020 Virtual Meeting of the Urban Economics Association](http://www.urbaneconomics.org/meetings/virtual2020/) (Fall 2020), the [Online Spatial and Urban Seminar](https://osus.info) (Summer 2020), and the [Online Urban Economics Seminar](https://sites.google.com/view/urban-econ-online) (Spring 2020).
+
+Junior Spatial at the SEA (2021-26) program archives are [here](https://sfuchs-de.github.io/sea-spatial/#archive).
+
+The [Online Urban Economics Seminar](https://sites.google.com/view/urban-econ-online) in Spring 2020 was a predecessor to [Online Spatial and Urban Seminar (OSUS)](https://osus.info).
 
 
 
