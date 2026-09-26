@@ -12,7 +12,7 @@ Active Research
 
 ### Working Papers
 
-"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2026). Resubmitted at *Hist LLM* [[arXiv version](http://arxiv.org/abs/2505.11599)]
+"[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2026). Resubmitted at *Historical Methods* [[arXiv version](http://arxiv.org/abs/2505.11599)]
 
 "[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2026). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
@@ -35,7 +35,7 @@ Publications
 
 ### Peer-Reviewed Publications
 
-"[Evaluating Transportation Improvements Within Cities Using Quantitative Spatial Models](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs_RR.pdf)." (2026). Accepted for *Regional Science and Urban Economics* SI on Urban Economics and Transport.
+"[Evaluating Transportation Improvements Within Cities Using Quantitative Spatial Models](https://doi.org/10.1016/j.regsciurbeco.2026.104272)." (2026). Accepted for *Regional Science and Urban Economics* SI on Urban Economics and Transport, 104272. [[Pre-print](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs_RR.pdf)]
 
 "[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://doi.org/10.1162/rest_a_01289)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). *Review of Economics and Statistics* 107, no. 3 (2025), 853–863. [[Pre-print](https://cseveren.github.io/files/pandemic_innovation_final.pdf), [NBER WP 28152](https://www.nber.org/papers/w28152)]
 
