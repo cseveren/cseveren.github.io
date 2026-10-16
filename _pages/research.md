@@ -14,7 +14,7 @@ Active Research
 
 "[Can LLMs Credibly Transform the Creation of Panel Data from Diverse Historical Tables?](https://cseveren.github.io/files/Hist_LLM.pdf)" (with [Verónica Bäcker-Peral][vbp] and [Vitaly Meursault][vitaly]). (2026). Resubmitted at *Historical Methods* [[arXiv version](http://arxiv.org/abs/2505.11599)]
 
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://cseveren.github.io/files/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]) (2026). [[Older version post as FRBP WP 22-22 (2022)](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-22.pdf), [Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
+"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Human Capital](https://vkbostwick.weebly.com/gdlanddropouts.html)" (with [Valerie Bostwick][vkb]) (2026). Revisions requested at *Journal of Human Resources*. [[Thread](https://x.com/ChrisSeveren/status/1529106205175693314)] 
 
 ### Selected Works in Progress
 
