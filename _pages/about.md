@@ -16,10 +16,10 @@ Before graduate school, I worked for an energy efficiency consulting firm in Aus
 
 ### New Developments
 
+* Nov '26 - I'm excited to become an Associate Editor at *RSUE* in 2027.
+* Oct '26 - Our paper studying [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/driving_dropouts_draft.pdf) (with [Valerie Bostwick](https://vkbostwick.weebly.com/)) is R&R at *JHR*.
 * Aug '26 - Interested in using QSMs, especially to evaluate transportation infrastructure? Check my [expanded review](https://cseveren.github.io/files/Evaluating_Transportation_with_QSMs_RR.pdf) for a special issue of RSUE on Urban Economics and Transport.
 * Aug '26 - Program for our conference-in-a-conference, [Junior Spatial at the SEA](https://sfuchs-de.github.io/sea-spatial/), is up (co-organizer [Simon Fuchs](https://sfuchs-de.github.io/) designed the nifty website).
-* Jun '26 - LLMs are good, but not perfect, at digitizing historical tabular data. Check out our simple [revised paper using historical vehicle registration data](https://cseveren.github.io/files/Hist_LLM.pdf) (and on [arXiv](http://arxiv.org/abs/2505.11599)).
-* Feb '26 - Updated draft studying [driving restrictions and teen school and work outcomes](https://cseveren.github.io/files/driving_dropouts_draft.pdf) with [Valerie Bostwick](https://vkbostwick.weebly.com/).
 * Aug '25 - I'm teaching a PhD class at Penn (Wharton) on QSMs for Urban Economics in the fall; description and syllabus [here](https://cseveren.github.io/teaching/2025-QSMs).
 
 
