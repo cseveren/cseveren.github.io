@@ -16,7 +16,7 @@ author_profile: true
 <div class="paper">
   <p class="paper-title">Variation in Adult Vision Benefit Transparency Across Medicaid Managed Care</p>
   <p class="paper-meta"><span class="status">Forthcoming</span> <span class="venue">American Journal of Managed Care</span></p>
-  <p class="paper-authors"><strong>Assamidanov A</strong>, Hsieh TP, Patel N, De Leon C, McInerney M, Boudreaux MH, <a href="https://www.brandylipton.com/">Lipton B</a></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Hsieh T, Patel N, De Leon C, McInerney M, Boudreaux MH, <a href="https://www.brandylipton.com/">Lipton B</a></p>
 </div>
 
 <div class="section-label">Working Papers</div>
