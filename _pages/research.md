@@ -13,18 +13,18 @@ author_profile: true
   <p class="paper-authors"><strong>Assamidanov A</strong>, Herring J, Vargas Nunez C, Vargas Bustamante A</p>
 </div>
 
+<div class="paper">
+  <p class="paper-title">Variation in Adult Vision Benefit Transparency Across Medicaid Managed Care</p>
+  <p class="paper-meta"><span class="status">Forthcoming</span> <span class="venue">American Journal of Managed Care</span></p>
+  <p class="paper-authors"><strong>Assamidanov A</strong>, Hsieh TP, Patel N, De Leon C, McInerney M, Boudreaux MH, <a href="https://www.brandylipton.com/">Lipton B</a></p>
+</div>
+
 <div class="section-label">Working Papers</div>
 
 <div class="paper">
   <p class="paper-title"><a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">When Parents Can Spare Time: Paid Sick Leave and Adolescent Mental Health</a></p>
   <p class="paper-meta"><span class="status jmp">Job market paper</span> <span class="status">Under review</span> <a href="https://assamidanov.github.io/files/PSL_Child_Health.pdf">PDF</a> · <a href="https://papers.ssrn.com/abstract=6332078">SSRN</a></p>
   <p class="paper-authors"><strong>Assamidanov A</strong>, Khalid S</p>
-</div>
-
-<div class="paper wp">
-  <p class="paper-title">Information Access and Transparency of Adult Vision Benefits in Medicaid Managed Care</p>
-  <p class="paper-meta"><span class="status">Minor revision</span> <span class="venue">American Journal of Managed Care</span></p>
-  <p class="paper-authors"><strong>Assamidanov A</strong>, Hsieh TP, Patel N, De Leon C, McInerney M, Boudreaux MH, <a href="https://www.brandylipton.com/">Lipton B</a></p>
 </div>
 
 <div class="paper wp">
